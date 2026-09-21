@@ -1,0 +1,17 @@
+README.md
+pyproject.toml
+src/aegisswarm/__init__.py
+src/aegisswarm/__main__.py
+src/aegisswarm/audit.py
+src/aegisswarm/cli/__init__.py
+src/aegisswarm/cli/controls.py
+src/aegisswarm/cli/telemetry_ui.py
+src/aegisswarm/engine/__init__.py
+src/aegisswarm/engine/defender.py
+src/aswarm.egg-info/PKG-INFO
+src/aswarm.egg-info/SOURCES.txt
+src/aswarm.egg-info/dependency_links.txt
+src/aswarm.egg-info/entry_points.txt
+src/aswarm.egg-info/requires.txt
+src/aswarm.egg-info/top_level.txt
+tests/test_aegisswarm.py
